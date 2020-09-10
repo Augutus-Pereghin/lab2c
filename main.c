@@ -20,10 +20,10 @@ int main(void) {
   Grade = atof(input);
 
   if (Grade >= 93){
-      letterGrade = "A+";
+      letterGrade = "A";
   }
   else if (Grade >= 90){
-    letterGrade = "A";
+    letterGrade = "A-";
   }
   else if (Grade >= 87){
     letterGrade = "B+";
