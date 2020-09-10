@@ -2,11 +2,11 @@
 #include <readline/readline.h>
 
 // Author: Augustus Perseghin agp5191
-// Collaborator:
-// Collaborator:
-// Collaborator:
+//Collaborator: Kieran Murdocca kkm5754@psu.edu
+//Collaborator: Reuben Lee wzl128@psu.edu
+//Collaborator: Krish Choudhary ksc5496@psu.edu
 // Section: 4
-// Breakout: 
+// Breakout: 18
 
 int main(void) {
   char* letterGrade;
